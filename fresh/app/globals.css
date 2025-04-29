@@ -33,4 +33,13 @@ body {
 
 .food-img{
   width: 200px;
+  height: auto;
+}
+
+.cart-item {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid gray;
+  line-height: 0px;
 }

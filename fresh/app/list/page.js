@@ -2,7 +2,7 @@
 
 
 export default function List() {
-  let 상품 = ['Tomatoes', 'Pasta', 'Coconut'] //상품3개
+  let 상품 = ['Tomatoes', 'Pasta', 'Coconut'] //상품 3개
 
   // let 어레이 = [2, 3, 4]
   // let b = 어레이.map((a) =>{
